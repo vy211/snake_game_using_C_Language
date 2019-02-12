@@ -1,4 +1,7 @@
-
+//write on codeblock
+/*
+   @Vipin Yadav
+   */
 #include <graphics.h>
 #include <stdlib.h>
 #include <dos.h>
